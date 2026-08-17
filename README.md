@@ -1,20 +1,22 @@
-# Netflix Content Analytics Dashboard
+# Retail Sales Performance Dashboard 2026
 
 ## 📌 Project Overview
 
-The Netflix Content Analytics Dashboard is an interactive data visualization project developed using Microsoft Power BI to analyze and understand Netflix's content library. The dashboard provides insights into movies and TV shows based on content type, genre, country, release year, rating, and overall content distribution.
+The Retail Sales Performance Dashboard 2026 is an interactive business intelligence dashboard developed using Microsoft Power BI to analyze retail sales performance and identify key business trends.
 
-The project transforms raw Netflix dataset into meaningful visual insights through data cleaning, transformation, modeling, and interactive reporting.
+The dashboard provides a consolidated view of sales, profit, orders, profit margin, average order value, product performance, category performance, and city-wise sales.
 
 ## 🎯 Project Objectives
 
-* Analyze the distribution of Movies and TV Shows.
-* Identify the most common content genres and categories.
-* Analyze content growth and trends across different years.
-* Explore content distribution across countries.
-* Analyze ratings and audience categories.
-* Identify patterns in Netflix's content library.
-* Present insights through an interactive and user-friendly dashboard.
+* Monitor overall retail sales performance.
+* Analyze total sales and profit.
+* Track order volume and average order value.
+* Calculate and monitor profit margin.
+* Compare sales across product categories.
+* Identify high-performing products.
+* Analyze sales performance across different cities.
+* Study sales trends over time.
+* Provide interactive business insights through visual reporting.
 
 ## 🛠️ Technologies Used
 
@@ -22,48 +24,64 @@ The project transforms raw Netflix dataset into meaningful visual insights throu
 * Power Query
 * DAX
 * Microsoft Excel
-* Data Visualization
 * Data Modeling
+* Data Visualization
 
-## 📊 Key Dashboard Features
+## 📊 Key Performance Indicators
 
-* Total Movies and TV Shows
-* Content type analysis
-* Genre-wise content distribution
-* Country-wise content analysis
-* Release year trends
-* Rating-wise content distribution
-* Interactive slicers and filters
+The dashboard provides the following major KPIs:
+
+* **Total Sales** – Measures overall revenue generated.
+* **Total Profit** – Shows the total profit generated from sales.
+* **Total Orders** – Tracks the number of orders.
+* **Profit Margin %** – Measures profitability relative to sales.
+* **Average Order Value** – Shows the average value generated per order.
+
+## 📈 Dashboard Features
+
+* Sales by category
+* Profit by category
+* Sales by city
+* Sales by product
+* Daily sales trend
+* Product performance comparison
+* Interactive category filters
+* City filters
+* Order date filters
 * KPI cards
-* Dynamic charts and visualizations
+* Interactive charts
+* Geographic sales visualization
 
 ## 🔄 Data Preparation
 
-The dataset was cleaned and transformed before visualization. Data preparation included handling missing values, removing unnecessary records, standardizing fields, and transforming data into a suitable format for analysis.
+The dataset was cleaned and transformed before being used for dashboard development.
 
-Power Query was used for data transformation and preparation, while DAX was used to create calculated measures and support analytical reporting.
+Data preparation included removing inconsistencies, organizing fields, handling data types, and preparing the dataset for analysis. Power Query was used to transform and structure the data, while DAX was used to create calculated metrics and KPIs.
 
-## 📈 Key Insights
+## 📊 Business Insights
 
-The dashboard helps identify changes in Netflix's content library over time, popular content categories, major content-producing countries, and the overall balance between movies and TV shows.
+The dashboard helps identify high-performing product categories, top-selling products, sales patterns, profitable categories, and geographic differences in sales performance.
 
-These insights can help understand content trends and support data-driven analysis of streaming platforms.
+Interactive filters allow users to analyze specific categories, cities, and dates, making it easier to investigate performance from different perspectives.
 
 ## 💡 Skills Demonstrated
 
+* Power BI
+* DAX
+* Power Query
 * Data Cleaning
 * Data Transformation
 * Data Modeling
-* DAX
-* Power Query
-* Data Visualization
-* Interactive Dashboard Development
-* Analytical Thinking
+* KPI Development
 * Business Intelligence
+* Data Visualization
+* Trend Analysis
+* Interactive Dashboard Design
 
 ## 🚀 Future Scope
 
-The project can be enhanced by adding viewer ratings, popularity scores, IMDB information, release trends, recommendation analysis, and predictive analytics.
+The dashboard can be enhanced by adding sales forecasting, customer segmentation, regional performance comparison, profit prediction, inventory analysis, and automated reporting.
 
 ## 👩‍💻 Author
+
 Aman Kumar
