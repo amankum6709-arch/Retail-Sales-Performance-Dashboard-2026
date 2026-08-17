@@ -66,5 +66,4 @@ These insights can help understand content trends and support data-driven analys
 The project can be enhanced by adding viewer ratings, popularity scores, IMDB information, release trends, recommendation analysis, and predictive analytics.
 
 ## 👩‍💻 Author
-
-**Noor Duggal**
+Aman Kumar
